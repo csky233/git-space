@@ -10,3 +10,4 @@ hello sky hello git
 hello sky hello git 23333333
 hello sky hello git network-edit
 阿哈哈
+中文测试
